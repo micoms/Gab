@@ -1,24 +1,24 @@
 body {
     text-align: center;
-    background-color: #e8f5e9; /* Light Green */
+    background-color: #e8f5e9;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
-    color: #2e7d32; /* Dark Green */
+    color: #2e7d32;
     font-size: 2.5em;
     margin: 20px 0;
 }
 
 h2 {
-    color: #1b5e20; /* Darker Green */
+    color: #1b5e20;
     text-align: center;
     font-size: 2em;
     margin: 20px 0;
 }
 
 h3 {
-    color: #1b5e20; /* Darker Green */
+    color: #1b5e20;
     text-align: center;
     font-size: 1.5em;
     margin: 20px 0;
@@ -31,11 +31,11 @@ p {
     text-indent: 20px;
 }
 button {
-    color: #388e3c; /* Medium Green */
+    color: #388e3c;
     text-decoration: none;
     font-weight: bold;
     border: none;
-    background-color: #a5d6a7; /* Light Green */
+    background-color: #a5d6a7;
     padding: 10px 20px;
     border-radius: 10px;
 }
@@ -45,7 +45,7 @@ button:hover {
 }
 a {
     text-decoration: none;
-    color: #388e3c; /* Medium Green */
+    color: #388e3c;
 }
 a:hover {
     text-decoration: underline;
