@@ -1,0 +1,48 @@
+body {
+    background-color: #e8f5e9; /* Light Green */
+    font-family: Arial, sans-serif;
+    color: #1b5e20; /* Darker Green */
+    margin: 0;
+    padding: 0
+}
+
+h1 {
+    color: #2e7d32; /* Dark Green */
+    font-size: 2.5em;
+    margin: 20px 0;
+}
+p {
+    text-align: center;
+    margin: 10px 20px;
+    line-height: 1.6;
+    font-size: 1.2em;
+}
+h2 {
+    color: #1b5e20; /* Darker Green */
+    font-size: 2em;
+    margin: 20px 0;
+}
+
+li {
+    list-style: none;
+    padding: 10px 0;
+    font-size: 1.2em;
+}
+button {
+    color: #388e3c; /* Medium Green */
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    background-color: #a5d6a7; /* Light Green */
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 1.2em;
+}
+a {
+    text-decoration: none;
+    color: #388e3c; /* Medium Green */
+}
+button:hover {
+    font-size: 30px;
+    background-color: #81c784; /* Slightly darker green on hover */
+}

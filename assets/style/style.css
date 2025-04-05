@@ -1,0 +1,50 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e8f5e9; /* Light Green */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background: url('../img/gab.jpg') no-repeat center center/cover;
+    color: white;
+    
+    margin-top: -1px; /* Adjusted to overlap the header */
+    padding: 100px 20px;
+    font-size: 2em;
+}
+
+h1 {
+    color: #2e7d32; /* Dark Green */
+}
+
+p {
+    text-align: center;
+    margin: 10px 20px;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #1b5e20; /* Darker Green */
+}
+
+li {
+    list-style: none;
+    padding: 10px 0;
+}
+
+
+button {
+    color: #388e3c; /* Medium Green */
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    background-color: #a5d6a7; /* Light Green */
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+button:hover {
+    font-size: 30px;
+}
