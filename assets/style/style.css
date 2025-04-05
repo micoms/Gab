@@ -1,19 +1,17 @@
 body {
-    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+    font-family: Verdana;
     background-color: #f5f8f5;
     text-align: center;
 }
 
-.hero {
+h1 {
     background: url('../img/gab.jpg') no-repeat center center/cover;
-    color: white;
+    color: #ffffff;
     padding: 120px 20px;
     font-size: 2.2em;
-    border-radius: 10px
+    border-radius: 10px;
 }
-h1 {
-    color: #1b5e20
-}
+
 
 p {
     text-align: center;
@@ -22,7 +20,6 @@ p {
 
 h2 {
     color: #2e7d32;
-    margin-top: 2rem;
 }
 
 li {
