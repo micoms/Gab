@@ -1,21 +1,18 @@
 body {
     background-color: #e8f5e9;
     font-family: Verdana;
-    color: #1b5e20;
-    margin: 0;
-    padding: 0
+    color: #1b5e20
 }
 
 h1 {
     color: #2e7d32;
-    font-size: 2.5em;
-    margin: 20px 0;
+    font-size: 2.5em
 }
 p {
     text-align: center;
     margin: 10px 20px;
     line-height: 1.6;
-    font-size: 1.2em;
+    font-size: 1.2em
 }
 h2 {
     color: #1b5e20;
